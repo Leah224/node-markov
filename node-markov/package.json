@@ -1,0 +1,12 @@
+{
+  "name": "markov-machine",
+  "version": "1.0.0",
+  "description": "Markov chain text generator",
+  "main": "markov.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node makeText.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
